@@ -1,1 +1,1 @@
-# Quantum Treasure Hunt
+# Qiskit Treasure Hunt
