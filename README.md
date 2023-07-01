@@ -1,1 +1,1 @@
-# Quantum-Trip
+# Quantum Treasure Hunt
