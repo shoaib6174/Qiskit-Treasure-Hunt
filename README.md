@@ -2,6 +2,9 @@
 
 The game is designed to help students understand how the states change when single qubit gates and measurement is done. The player will navigate a quantum map to reach treasure ( target state) as many time as possible using 100 play of cards. The target state will change randomly once the player reaches the target state.
 
+<img width="502" alt="image" src="https://github.com/shoaib6174/Qiskit-Treasure-Hunt/assets/40586752/11b26b38-48ed-4df5-ac79-84008d7a5eeb">
+
+
 Gameplay:
 * The game will start on |0> state and the objective is to reach the target state mentioned in the green box
 * The player will navigate the map  using cards representing gates and measurement to reach the target state
